@@ -1,5 +1,4 @@
-notes
-
+# notes
 plan to put all the stuff i am studying here, eventually i want to consolidate all my knowledge of this kind of stuff here in text format so i can always easily access it and maybe it could be helpful to someone someday
 
 starting with refreshing and solidifying some knowledge then moving to new stuff
