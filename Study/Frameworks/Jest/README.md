@@ -1,0 +1,1 @@
+want to freshen this up a bit as well, would like to do some stuff in here for implementing with multiple languages

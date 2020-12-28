@@ -1,0 +1,1 @@
+i can already do a lot with d3, would like to expand on that, also interested how much they can do with shaders and gpu usage or if i would need to look elsewhere for that
