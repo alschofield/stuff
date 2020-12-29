@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import { Footer } from './features/main-components/footer/Footer';
 import { Nav } from './features/main-components/nav/Nav';
+import Container from './features/components/Container/Container';
 import { Home } from './features/pages/home/Home';
 import './App.css';
 
@@ -14,7 +15,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <div>
+      <Container>
         <Nav />
 
         <Switch>
@@ -26,7 +27,7 @@ function App() {
         </Switch>
 
         <Footer />
-      </div>
+      </Container>
     </Router>
   );
 }
