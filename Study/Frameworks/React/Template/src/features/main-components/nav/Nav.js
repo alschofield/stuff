@@ -17,9 +17,6 @@ export function Nav() {
   return (
     <Container { ...styles } >
       <NavItem type="anchor" value="Home" href="/home" />
-      <NavItem type="anchor" value="Projects" href="/projects" />
-      <NavItem type="anchor" value="Music" href="/music" />
-      <NavItem type="anchor" value="Merch" href="https://scho.clothing" />
     </Container>
   );
 }

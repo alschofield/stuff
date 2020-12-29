@@ -7,8 +7,6 @@ import {
 import { Footer } from './features/main-components/footer/Footer';
 import { Nav } from './features/main-components/nav/Nav';
 import { Home } from './features/pages/home/Home';
-import { Music } from './features/pages/music/Music';
-import { Projects } from './features/pages/projects/Projects';
 import './App.css';
 
 // import './api/server'
@@ -20,15 +18,11 @@ function App() {
         <Nav />
 
         <Switch>
-          <Route path="/music">
-            <Music />
-          </Route>
-          <Route path="/projects">
-            <Projects />
-          </Route>
+
           <Route path="/">
             <Home />
           </Route>
+
         </Switch>
 
         <Footer />
