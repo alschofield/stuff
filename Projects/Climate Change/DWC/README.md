@@ -54,5 +54,3 @@
 - https://earthobservatory.nasa.gov/features/OceanCarbon
 
 - https://en.wikipedia.org/wiki/Carbon_capture_and_storage
-
-- https://www.youtube.com/watch?v=1VYpviOfnkw
