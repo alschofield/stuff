@@ -7,3 +7,6 @@ we gotta do something, so if people wont STOP doing things, what actionable thin
 - how much of that carbon is safe to be in those places? how much is desired?
 - how much is already being taken out currently by any natural or human made means?
 - how much money, if any, has been allocated to this type of research by humans worldwide? (and a breakdown of where and how much for each)
+
+# links
+- https://www.youtube.com/watch?v=SLsTskih7_I
