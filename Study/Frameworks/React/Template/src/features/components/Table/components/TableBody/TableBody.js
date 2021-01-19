@@ -1,13 +1,17 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+const Item = styled.tbody`
+`;
 
 export default function TableBody(props) {
-  const Item = styled.tbody`
-  `;
-
   return (
     <Item {...props}>
       { props.children }
     </Item>
   );
+}
+
+TableBody.defaultProps = {
+  'data-testid': 'tablebody-container'
 }

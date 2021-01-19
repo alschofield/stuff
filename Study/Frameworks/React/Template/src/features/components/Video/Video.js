@@ -1,13 +1,17 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+const Item = styled.video`
+`;
 
 export default function Video(props) {
-  const Item = styled.video`
-  `;
-
   return (
     <Item {...props}>
       { props.children }
     </Item>
   );
+}
+
+Video.defaultProps = {
+  'data-testid': 'video-container'
 }

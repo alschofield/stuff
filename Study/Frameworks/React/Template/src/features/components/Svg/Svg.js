@@ -1,13 +1,17 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+const Item = styled.svg`
+`;
 
 export default function Svg(props) {
-  const Item = styled.svg`
-  `;
-
   return (
     <Item {...props}>
       { props.children }
     </Item>
   );
+}
+
+Svg.defaultProps = {
+  'data-testid': 'svg-container'
 }

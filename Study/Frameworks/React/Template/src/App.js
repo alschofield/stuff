@@ -4,10 +4,10 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import { Footer } from './features/main-components/footer/Footer';
-import { Nav } from './features/main-components/nav/Nav';
+import Footer from './features/main-components/footer/Footer';
+import Nav from './features/main-components/nav/Nav';
 import Container from './features/components/Container/Container';
-import { Home } from './features/pages/home/Home';
+import Home from './features/pages/home/Home';
 import './App.css';
 
 // import './api/server'
@@ -15,7 +15,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Container>
+      <Container data-testid="app-container">
         <Nav />
 
         <Switch>

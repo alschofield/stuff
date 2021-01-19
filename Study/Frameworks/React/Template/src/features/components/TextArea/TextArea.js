@@ -1,13 +1,17 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+const Item = styled.textarea`
+`;
 
 export default function TextArea(props) {
-  const Item = styled.textarea`
-  `;
-
   return (
     <Item {...props}>
       { props.children }
     </Item>
   );
+}
+
+TextArea.defaultProps = {
+  'data-testid': 'textarea-container'
 }

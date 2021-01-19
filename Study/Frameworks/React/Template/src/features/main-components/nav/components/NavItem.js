@@ -2,7 +2,7 @@ import React from 'react';
 import Anchor from '../../../components/Anchor/Anchor';
 import Button from '../../../components/Button/Button';
 import Container from '../../../components/Container/Container';
-import Text from '../../../components/Text/Text'
+import Text from '../../../components/Text/Text';
 
 export default function NavItem(props) {
   if (props.type === 'anchor') {
@@ -24,4 +24,8 @@ export default function NavItem(props) {
       </Container>
     );
   }
+}
+
+NavItem.defaultProps = {
+  'data-testid': 'navitem-container'
 }

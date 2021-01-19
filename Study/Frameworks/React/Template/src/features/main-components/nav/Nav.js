@@ -1,8 +1,8 @@
 import React from 'react';
 import NavItem from './components/NavItem.js';
-import Container from '../../components/Container/Container'
+import Container from '../../components/Container/Container';
 
-export function Nav() {
+export default function Nav() {
   const styles = {
     position: 'fixed',
     display: 'flex',
@@ -15,7 +15,7 @@ export function Nav() {
   }
 
   return (
-    <Container { ...styles } >
+    <Container { ...styles } data-testid="nav-container">
       <NavItem type="anchor" value="Home" href="/home" />
     </Container>
   );

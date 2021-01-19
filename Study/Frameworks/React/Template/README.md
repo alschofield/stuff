@@ -1,12 +1,12 @@
-Portfolio site (start): current idea dual purpose of react template/showcase and portfolio site
+Template for starting new basic react apps
 
 todos:
-better way to do styling
-how exactly to handle
-  table
-  video
-  svg
-  list item
-  image
-  header option (h1-h6)
-tests for all base components
+themes
+redux subscription base example
+table (have an idea, need to write it)
+video (mainly about all the different props on the actual video html tag)
+svg (mainly about all the different props on the actual svg html tag, might be over estimating this one)
+image (couple props to handle i think)
+button hover state
+
+https://www.youtube.com/watch?v=fk1Q9y6VVy0

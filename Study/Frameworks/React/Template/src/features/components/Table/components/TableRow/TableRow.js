@@ -1,13 +1,17 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
+
+const Item = styled.tr`
+`;
 
 export default function TableRow(props) {
-  const Item = styled.tr`
-  `;
-
   return (
     <Item {...props}>
       { props.children }
     </Item>
   );
+}
+
+TableRow.defaultProps = {
+  'data-testid': 'tablerow-container'
 }

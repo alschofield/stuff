@@ -1,16 +1,26 @@
-// import React from 'react';
-// import { render } from '@testing-library/react';
-// import { Provider } from 'react-redux';
-// import store from './app/store';
-// import App from './App';
+import React from 'react';
+import { render, screen, cleanup } from '@testing-library/react';
+import { Provider } from 'react-redux';
+import store from './redux/store';
+import App from './App';
 
-// test('renders learn react link', () => {
-//   // const { getByText } = render(
-//   //   <Provider store={store}>
-//   //     <App />
-//   //   </Provider>
-//   // );
+afterAll(cleanup)
 
-//   // should have switch component
-//   // should have home, music and projects routes
-// });
+const renderApp = () => (
+  <App />
+)
+
+test('renders react app', () => {
+  render(
+    <Provider store={store}>
+      {renderApp()}
+    </Provider>
+  );
+
+  // app container should exist
+  expect(screen.getByTestId("app-container"))
+  // nav should exist
+  expect(screen.getByTestId("nav-container"))
+  // home page nav item should exist
+  expect(screen.getByTestId("navitem-container")).toHaveTextContent('Home')
+});
