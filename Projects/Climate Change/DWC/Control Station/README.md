@@ -24,10 +24,6 @@
 - keep track of surrounding marine environment? might be positives to this, would like to keep everything as it is unless absolutely necessary and this would allow ability to head that off
 - keep track of any new or large amounts elements incoming through the filter
 
-# links
-- https://www.youtube.com/watch?v=pnMtmFzMLP4
-- https://www.youtube.com/watch?v=D5FdrOx2aZk
-
 # MLK
 - and now that i have your attention, please direct it hopefully back to the man of the day, the one, the only, Martin Luther King:
 

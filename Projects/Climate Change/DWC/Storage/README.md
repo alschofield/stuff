@@ -11,5 +11,3 @@ going to need to store all the excess minerals and things that get outtaken from
 
 # storage container device specs
 
-# links
-- https://www.youtube.com/watch?v=kB8d0c4DQUY

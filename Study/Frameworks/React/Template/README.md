@@ -1,4 +1,4 @@
-Template for starting new basic react apps
+Template for starting new basic react apps (really just create-react-app with custom components and stock jest tests for now)
 
 todos:
 themes
@@ -8,5 +8,3 @@ video (mainly about all the different props on the actual video html tag)
 svg (mainly about all the different props on the actual svg html tag, might be over estimating this one)
 image (couple props to handle i think)
 button hover state
-
-https://www.youtube.com/watch?v=fk1Q9y6VVy0
