@@ -1,0 +1,129 @@
+# info
+according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinity.oceansciences.org/learn-more.htm) (would like a 2020 report)
+  - 96.56% H2O (water)
+  - 1.898% Cl - (chloride)
+  - 1.0556% Na 2+ (sodium)
+  - 0.2646% SO4 2- (sulfate)
+  - 0.1272% Mg 2+ (magnesium)
+  - 0.04% Ca 2+ (calcium)
+  - 0.038% K + (potassium)
+  - 0.014% HCO3 - (bicarbonate)
+  - 0.0026% Other
+
+# ocean elements
+- hydrogen
+  - temperature
+    - gas
+      - above ​−423.182 °F (-252.87 °C)
+    - solid
+      - ​−423.182 °F (-252.87 °C) - −434.49 °F (-259.14 °C)
+    - liquid
+      - below −434.49 °F (-259.14 °C)
+  - proximity to other elements
+    - no oxygen
+    - storing as liquid seems like a good solution, gas seems to react violently with air, oxygen, halogens and strong oxidants
+- oxygen
+  - temperature
+    - gas
+      - above −297.4 °F (−183.0 °C)
+    - solid
+      - −297.4 °F (−183.0 °C) - −361.1 °F (−218.4 °C)
+    - liquid
+      - below −361.1 °F (−218.4 °C)
+  - proximity to other elements
+    - pretty much keep away from most everything i think
+  - warnings
+    - DO NOT store oxygen systems in unventilated areas such as closets or cabinets
+    - fairly safe on its own
+- carbon
+  - everything im seeing is about storing co2 and not carbon itself
+  - temperature
+    - gas
+      - below 8,721 °F (4,827 °C)
+    - solid
+      - 8,721 °F (4,827 °C) - 6,420 °F (3,550 °C)
+    - liquid
+      - above 6,420 °F (3,550 °C)
+  - non reactive interior
+    - carbon will grab on to everything
+    - co2 i dont think will explode
+    - co2 is toxic to humans
+  - proximity to other elements
+- chloride
+  - temperature
+    - gas
+      - above -29.27°F (-34.04°C)
+    - solid
+      - -29.27°F (-34.04°C) - -150.7°F (-101.5°C)
+    - liquid
+      - below -150.7°F (-101.5°C)
+  - proximity to other elements
+    - KEEP AWAY FROM HYDROGEN
+    - probably best to just keep as far away from everything as possible
+- sodium
+  - temperature
+    - gas
+      - below 208 °F (97.81°C)
+    - solid
+      - 208 °F (97.81°C) - 1,621 °F (882.9°C)
+    - liquid
+      - above 1,621 °F (882.9°C)
+  - proximity to other elements
+    - keep away from everything
+- sulfur
+  - temperature
+    - gas
+      - above 832 °F (444.6 °C)
+    - solid
+      - 832 °F (444.6 °C) - 239.38 °F (115.21 °C)
+    - liquid
+      - below 239.38 °F (115.21 °C)
+  - proximity to other elements
+    - sulfur dioxide seems bad so no oxygen probably
+- magnesium
+  - temperature
+    - gas
+      - above 1,996°F (1,091°C)
+    - solid
+      - 1,996°F (1,091°C) - 1,202°F (650°C)
+    - liquid
+      - below 1,202°F (650°C)
+  - proximity to other elements
+    - keep away from chlorine and bromine
+- calcium
+  - temperature
+    - gas
+      - above 1,548°F (842°C)
+    - solid
+      - 1,548°F (842°C) - 2,703°F (1,484°C)
+    - liquid
+      - below 2,703°F (1,484°C)
+  - proximity to other elements
+    - keep away from 
+      - oxygen
+      - h2o
+      - hydrogen
+      - boron
+      - sulfur
+      - carbon
+      - phosphorus
+- potassium
+  - temperature
+    - gas
+      - above 1,400 °F (760 °C)
+    - solid
+      - 1,400 °F (760 °C) - 145.90 °F (63.28 °C)
+    - liquid
+      - below 145.90 °F (63.28 °C)
+  - proximity to other elements
+    - keep away from
+      - sulfur
+      - chlorine
+      - fluorine
+      - phosphorus
+      - nitrogen
+- other
+  - temperature
+  - non reactive interior
+  - proximity to other elements
+  - how to handle multiple varying "things" (whatever other is is probably a combination of a lot of low chance elements so going to need to handle multiple cases in one scenario)

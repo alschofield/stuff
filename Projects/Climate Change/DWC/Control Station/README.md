@@ -22,8 +22,9 @@
 - ui's for all of the above for efficiency and coolness
 - keep track of durability? of everything, like try best as we can via software to detect for any and all issues before they are issues
 - keep track of surrounding marine environment? might be positives to this, would like to keep everything as it is unless absolutely necessary and this would allow ability to head that off
+- keep track of any new or large amounts elements incoming through the filter
 
-# what im listening to
+# links
 - https://www.youtube.com/watch?v=pnMtmFzMLP4
 - https://www.youtube.com/watch?v=D5FdrOx2aZk
 

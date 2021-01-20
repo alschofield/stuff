@@ -121,4 +121,4 @@ Linear Algebra by Strang
 https://amzn.to/3418sqB
 
 # links
-- https://www.youtube.com/watch?v=aSo-MVAADyo
+- https://www.youtube.com/watch?v=QZ2F3ZP1sxg
