@@ -24,9 +24,14 @@
 - keep track of surrounding marine environment? might be positives to this, would like to keep everything as it is unless absolutely necessary and this would allow ability to head that off
 - keep track of any new or large amounts elements incoming through the filter
 
-# MLK
-- and now that i have your attention, please direct it hopefully back to the man of the day, the one, the only, Martin Luther King:
-
-- https://www.youtube.com/watch?v=fR-PReWhMGM
-- https://www.youtube.com/watch?v=smEqnnklfYs
-- https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+# checklist
+x = done, / = decent enough progress has been made
+- [x] what will the control center do
+- [ ] computer system designs
+  - [ ] system ui design
+  - [ ] system software design
+- [ ] how to build
+  - [ ] visual design
+    - [ ] size/measurements
+    - [ ] interior design
+  - [ ] materials

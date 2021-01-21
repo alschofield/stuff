@@ -3,3 +3,7 @@
 
 # questions
 - what sort of device could be used to keep marine animals away from these filters in a safe way?
+
+# checklist
+x = done, / = decent enough progress has been made
+- [ ] how to prevent harming the existing environment

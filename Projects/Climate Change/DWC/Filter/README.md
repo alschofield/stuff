@@ -76,6 +76,18 @@
 # can anyone make this or help us make this (specifically the filtration system)?
 - doubt it, maybe people could make specific parts right now, would probably need to spec out each part and find manufacturers who could make them
 
+# checklist
+x = done, / = decent enough progress has been made
+- [x] how to (from a high level) take carbon out of water
+- [/] what is in sea/ocean water
+- [ ] how to (specifically) remove excess minerals/elements/chemicals from water
+- [ ] how to seperate all elements/chemicals of the water apart in liquid form
+- [ ] how to build filters
+  - [ ] entry/exit doors
+  - [ ] encasing
+  - [ ] filter
+  - [ ] support
+
 # links
 - https://salinity.oceansciences.org/learn-more.htm
 

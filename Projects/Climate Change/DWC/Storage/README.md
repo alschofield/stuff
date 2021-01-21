@@ -11,3 +11,9 @@ going to need to store all the excess minerals and things that get outtaken from
 
 # storage container device specs
 
+# checklist
+x = done, / = decent enough progress has been made
+- [ ] how to break apart chemicals sent to storage containers
+- [ ] how to build chemical breakdown device
+- [ ] how to build storage container
+

@@ -13,7 +13,19 @@
 
 - want a device surrounding the filtration system that keeps marine animals away from it
 
+# checklist
+x = done, / = decent enough progress has been made
+- [x] geography stuff (location, marine life)
+- [/] science stuff (filters)
+- [ ] engineering/architectural stuff (all the device specs, control center systems designs)
+- [ ] design stuff (interior design, system ui designs)
+- [ ] software engineering stuff (systems software and any software needed for the different devices)
+- [ ] business stuff (costs, funding, overhead, recovering costs)
+- [ ] diplomat stuff (government funding and approval)
+
 # links:
 - https://earthobservatory.nasa.gov/features/OceanCarbon
 
 - https://en.wikipedia.org/wiki/Carbon_capture_and_storage
+
+- https://www.youtube.com/watch?v=nszXYm3Xe3g
