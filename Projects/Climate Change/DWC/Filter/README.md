@@ -1,4 +1,5 @@
 # objective
+- basically a cooler desalination plant that puts good water back in the ocean
 - Create a Filtration device that, given sea/ocean water (very simplistic):
   - check ph of liquid
   - if lower than 8.2:
@@ -38,26 +39,69 @@
 
 - both might be useful, maybe the carbonic acid reaction is used to remove excess bicarbonate and carbonate ions, and then afterwards we break down and build back up the components of the water, we solve the carbon problem at hand while allowing more research to be done on water make up and things of the sort, maybe this reaction is whats used to remove excess bicarbonates/carbonates
 
+# desalination
+- solar distillation
+  - heat water, water evaporates, water cools somewhere else
+  - need to mimic the sun underwater, not ideal
+- natural evaporation
+- vacuum distillation
+  - put water under pressure, it evaporates ate lower tempuratures, water cools elsewhere
+  - seems more doable than the sun
+- multi stage flash distillation
+- multiple effect distillation
+- vapor compression distillation
+- reverse osmosis
+  - this seems to be the preferred method atm
+- freeze thaw
+- electrodialysis membrane
+- membrane distillation
+- forward osmosis
+- wave powered desalination
+
 ## solution 1
 - basic idea
-  - break down sea water sample to basic elements (while also keeping all in a liquid state)
+  - break down sea water and seperate all basic parts
+    - H2O, chloride, sodium, sulfate, magnesium, calcium, potassium, bicarbonate, other
+    - after desalinating, transport all but the water to local storage or back to main storage if full
+      - need a way to organize and potentially break down any the elements/chemicals
   - recombine to desired state
-  - handle excess
-    - store some excess for use when levels of an element in the water are low
-    - once levels for each element have been met, send to storage device
+    - need to figure out desired state
+      - need to look at water make up throughout time as far back as we can find
+      - thinking ph is great indicator but we can also try for chemical make up
+    - place chemicals back into water using local storage
   - output water back into the ocean
-- how to break down sea water into elements still in liquid state
-  - need to handle all of
-    - H2O (water)
-      - already a liquid but do we want to break down to hydrogen and oxygen, sounds dangerous
-    - Cl - (chloride)
-    - Na 2+ (sodium)
-    - SO4 2- (sulfate)
-    - Mg 2+ (magnesium)
-    - Ca 2+ (calcium)
-    - K + (potassium)
-    - HCO3 - (bicarbonate) 
-    - Other (probably the most difficult but also smallest percentage because presumably it can be a lot of different things and what do we do with that stuff)
+
+# scanner
+- inputs as highly saturated water with elements/chemicals
+- evaporates the water
+- some how place elements/chemicals in scanner
+- scanner outputs elements/chemicals into local storage
+  - scanner checks and organizes chloride, sodium, sulfate, magnesium, calcium, potassium, bicarbonate, other
+
+# device specs (basic specs for now until i figure out more of these specifics)
+- if underwater, encased in concrete, then majority steel probably, would like the inside to be completely encased and unable to be touched by any water that is not intended to be there
+- component to intake seawater
+  - steel
+  - need to intake mass amount of water
+  - then maybe feed smaller amounts of water into the filtration component
+    - allows easier control of the amount of water inputting into the filtration component
+- desalination component
+  - desalinate sea water
+    - researching what reverse osmosis is
+  - needs to output final clean water into the output component
+  - needs to output any elements/chemicals to the scanner component
+- scanner component
+  - inputs as highly saturated water with elements/chemicals
+  - evaporates the water
+  - somehow place elements/chemicals in scanner
+    - some sort of belt
+  - scanner outputs elements/chemicals into local storage
+    - scanner checks and organizes chloride, sodium, sulfate, magnesium, calcium, potassium, bicarbonate, other
+- local storage component
+  - needs to store a small amount of each of chloride, sodium, sulfate, magnesium, calcium, potassium, bicarbonate, other (in suspended/solubled H2O im thinking)
+- component to output water
+  - needs to input chloride, sodium, sulfate, magnesium, calcium, potassium, bicarbonate, other based on the desired ph/element make up from the local storage component
+  - needs to output water input back into the the surrounding environment
 
 # what materials can be used to reduce pollution
 - possibilities
@@ -72,27 +116,6 @@
 - also, the actual filter could be above sea level technically and could pull water up to it through piping
 - but depending on where these need to go (at water current hotspots? close to land?) will probably determine what needs to be done, if its near the shore, the filtration systems could be on land as well with the control center, if it needs to be far from land, then should entertain underwater and floating filters, floating has to deal with more weather conditions than underwater
 
-
-# device specs (basic specs for now until i figure out more of these specifics)
-- if underwater, encased in concrete, then majority steel probably, would like the inside to be completely encased and unable to be touched by any water that is not intended to be there
-- component to intake seawater
-  - steel
-  - need to intake mass amount of water
-  - then maybe feed smaller amounts of water into the filtration component
-    - allows easier control of the amount of water inputting into the filtration component
-- component to filter water
-  - needs to take ph level
-  - needs to check elemental/mineral breakdown of the water
-  - needs to add/remove minerals into the water based on the current levels and ph and the desired levels we have yet to define, or we just remove excess (adding requires storing additional resources, maybe have optional ability to use stored excess to add)
-  - needs to output final resulting water into the output component
-  - needs to output any excess carbon and minerals into the carbon/mineral outtake component
-- component to outtake carbon and other minerals/salts
-  - steel
-  - needs to output carbon/mineral input into piping to be transported to storage facilities
-- component to output water
-  - steel
-  - needs to output water input back into the the surrounding environment
-
 # can anyone make this or help us make this (specifically the filtration system)?
 - doubt it, maybe people could make specific parts right now, would probably need to spec out each part and find manufacturers who could make them
 
@@ -100,12 +123,14 @@
 x = done, / = decent enough progress has been made
 - [x] how to (from a high level) take carbon out of water
 - [/] what is in sea/ocean water
-- [ ] how to (specifically) remove excess minerals/elements/chemicals from water
-- [ ] how to seperate all elements/chemicals of the water apart in liquid form
+- [/] how to (specifically) remove excess minerals/elements/chemicals from water
+- [ ] software
 - [ ] how to build filters
   - [ ] entry/exit doors
   - [ ] encasing
   - [ ] filter
+  - [ ] local storage
+  - [ ] scanner
   - [ ] support
 
 # links
@@ -114,3 +139,5 @@ x = done, / = decent enough progress has been made
 - https://escholarship.org/uc/item/38p2q583
 
 - https://www.st.nmfs.noaa.gov/Assets/Nemo/documents/lessons/Lesson_3/Lesson_3-Teacher's_Guide.pdf unironically
+
+- https://www.youtube.com/watch?v=kuGvfwEL5v4

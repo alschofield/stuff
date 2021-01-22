@@ -27,7 +27,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above −297.4 °F (−183.0 °C)
     - liquid
-      - below −297.4 °F (−183.0 °C)
+      - −297.4 °F (−183.0 °C) - −361.1 °F (−218.4 °C)
     - solid
       - below −361.1 °F (−218.4 °C)
   - proximity to other elements
@@ -41,7 +41,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 8,721 °F (4,827 °C)
     - liquid
-      - below 8,721 °F (4,827 °C)
+      - 8,721 °F (4,827 °C) - 6,420 °F (3,550 °C)
     - solid
       - below 6,420 °F (3,550 °C)
   - non reactive interior
@@ -54,7 +54,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above -29.27°F (-34.04°C)
     - liquid
-      - below -29.27°F (-34.04°C)
+      - -29.27°F (-34.04°C) - -150.7°F (-101.5°C)
     - solid
       - below -150.7°F (-101.5°C)
   - proximity to other elements
@@ -65,7 +65,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 1,621 °F (882.9°C)
     - liquid
-      - below 1,621 °F (882.9°C)
+      - 1,621 °F (882.9°C) - 208 °F (97.81°C)
     - solid
       - below 208 °F (97.81°C)
   - proximity to other elements
@@ -75,7 +75,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 832 °F (444.6 °C)
     - liquid
-      - below 832 °F (444.6 °C)
+      - 832 °F (444.6 °C) - 239.38 °F (115.21 °C)
     - solid
       - below 239.38 °F (115.21 °C)
   - proximity to other elements
@@ -85,7 +85,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 1,996°F (1,091°C)
     - liquid
-      - below 1,996°F (1,091°C)
+      - 1,996°F (1,091°C) - 1,202°F (650°C)
     - solid
       - below 1,202°F (650°C)
   - proximity to other elements
@@ -95,7 +95,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 2,703°F (1,484°C)
     - liquid
-      - below 2,703°F (842°C)
+      - 2,703°F (842°C) - 1,548°F (842°C)
     - solid
       - below 1,548°F (842°C)
   - proximity to other elements
@@ -112,7 +112,7 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
     - gas
       - above 1,398°F (758.8°C)
     - liquid
-      - below 1,398°F (758.8°C)
+      - 1,398°F (758.8°C) - 146.3°F (63.5°C)
     - solid
       - below 146.3°F (63.5°C)
   - proximity to other elements
