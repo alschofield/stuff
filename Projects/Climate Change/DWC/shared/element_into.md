@@ -15,10 +15,10 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
   - temperature
     - gas
       - above ​−423.182 °F (-252.87 °C)
-    - solid
-      - ​−423.182 °F (-252.87 °C) - −434.49 °F (-259.14 °C)
     - liquid
-      - below −434.49 °F (-259.14 °C)
+      - −423.182 °F (-252.87 °C) - −434.49 °F (-259.14 °C)
+    - solid
+      - ​below −434.49 °F (-259.14 °C)
   - proximity to other elements
     - no oxygen
     - storing as liquid seems like a good solution, gas seems to react violently with air, oxygen, halogens and strong oxidants
@@ -26,9 +26,9 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
   - temperature
     - gas
       - above −297.4 °F (−183.0 °C)
-    - solid
-      - −297.4 °F (−183.0 °C) - −361.1 °F (−218.4 °C)
     - liquid
+      - below −297.4 °F (−183.0 °C)
+    - solid
       - below −361.1 °F (−218.4 °C)
   - proximity to other elements
     - pretty much keep away from most everything i think
@@ -39,11 +39,11 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
   - everything im seeing is about storing co2 and not carbon itself
   - temperature
     - gas
+      - above 8,721 °F (4,827 °C)
+    - liquid
       - below 8,721 °F (4,827 °C)
     - solid
-      - 8,721 °F (4,827 °C) - 6,420 °F (3,550 °C)
-    - liquid
-      - above 6,420 °F (3,550 °C)
+      - below 6,420 °F (3,550 °C)
   - non reactive interior
     - carbon will grab on to everything
     - co2 i dont think will explode
@@ -53,9 +53,9 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
   - temperature
     - gas
       - above -29.27°F (-34.04°C)
-    - solid
-      - -29.27°F (-34.04°C) - -150.7°F (-101.5°C)
     - liquid
+      - below -29.27°F (-34.04°C)
+    - solid
       - below -150.7°F (-101.5°C)
   - proximity to other elements
     - KEEP AWAY FROM HYDROGEN
@@ -63,20 +63,20 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
 - sodium
   - temperature
     - gas
-      - below 208 °F (97.81°C)
-    - solid
-      - 208 °F (97.81°C) - 1,621 °F (882.9°C)
-    - liquid
       - above 1,621 °F (882.9°C)
+    - liquid
+      - below 1,621 °F (882.9°C)
+    - solid
+      - below 208 °F (97.81°C)
   - proximity to other elements
     - keep away from everything
 - sulfur
   - temperature
     - gas
       - above 832 °F (444.6 °C)
-    - solid
-      - 832 °F (444.6 °C) - 239.38 °F (115.21 °C)
     - liquid
+      - below 832 °F (444.6 °C)
+    - solid
       - below 239.38 °F (115.21 °C)
   - proximity to other elements
     - sulfur dioxide seems bad so no oxygen probably
@@ -84,20 +84,20 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
   - temperature
     - gas
       - above 1,996°F (1,091°C)
-    - solid
-      - 1,996°F (1,091°C) - 1,202°F (650°C)
     - liquid
+      - below 1,996°F (1,091°C)
+    - solid
       - below 1,202°F (650°C)
   - proximity to other elements
     - keep away from chlorine and bromine
 - calcium
   - temperature
     - gas
-      - above 1,548°F (842°C)
-    - solid
-      - 1,548°F (842°C) - 2,703°F (1,484°C)
+      - above 2,703°F (1,484°C)
     - liquid
-      - below 2,703°F (1,484°C)
+      - below 2,703°F (842°C)
+    - solid
+      - below 1,548°F (842°C)
   - proximity to other elements
     - keep away from 
       - oxygen
@@ -110,11 +110,11 @@ according to NASA in 2018, from 1 kg of seawater (100% = 1000g) (https://salinit
 - potassium
   - temperature
     - gas
-      - above 1,400 °F (760 °C)
-    - solid
-      - 1,400 °F (760 °C) - 145.90 °F (63.28 °C)
+      - above 1,398°F (758.8°C)
     - liquid
-      - below 145.90 °F (63.28 °C)
+      - below 1,398°F (758.8°C)
+    - solid
+      - below 146.3°F (63.5°C)
   - proximity to other elements
     - keep away from
       - sulfur

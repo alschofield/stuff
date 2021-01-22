@@ -15,8 +15,9 @@
 
 # checklist
 x = done, / = decent enough progress has been made
-- [x] geography stuff (location, marine life)
+- [x] geography stuff (location)
 - [/] science stuff (filters)
+- [ ] marine biologist? marine veterenarian? (marine life)
 - [ ] engineering/architectural stuff (all the device specs, control center systems designs)
 - [ ] design stuff (interior design, system ui designs)
 - [ ] software engineering stuff (systems software and any software needed for the different devices)

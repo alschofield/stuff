@@ -38,6 +38,26 @@
 
 - both might be useful, maybe the carbonic acid reaction is used to remove excess bicarbonate and carbonate ions, and then afterwards we break down and build back up the components of the water, we solve the carbon problem at hand while allowing more research to be done on water make up and things of the sort, maybe this reaction is whats used to remove excess bicarbonates/carbonates
 
+## solution 1
+- basic idea
+  - break down sea water sample to basic elements (while also keeping all in a liquid state)
+  - recombine to desired state
+  - handle excess
+    - store some excess for use when levels of an element in the water are low
+    - once levels for each element have been met, send to storage device
+  - output water back into the ocean
+- how to break down sea water into elements still in liquid state
+  - need to handle all of
+    - H2O (water)
+      - already a liquid but do we want to break down to hydrogen and oxygen, sounds dangerous
+    - Cl - (chloride)
+    - Na 2+ (sodium)
+    - SO4 2- (sulfate)
+    - Mg 2+ (magnesium)
+    - Ca 2+ (calcium)
+    - K + (potassium)
+    - HCO3 - (bicarbonate) 
+    - Other (probably the most difficult but also smallest percentage because presumably it can be a lot of different things and what do we do with that stuff)
 
 # what materials can be used to reduce pollution
 - possibilities
