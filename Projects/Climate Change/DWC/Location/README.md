@@ -26,7 +26,7 @@
   5. Kuroshio/N pacific, japan or russia
   6. Norwegian current
   7. N. Equatorial current, around southern tip of india probably
-  7. Alaskan current
+  8. Alaskan current
 
 - all
   - Gulf stream
