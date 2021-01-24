@@ -1,0 +1,12 @@
+[submodule "Projects/Portfolio"]
+	path = Projects/Portfolio
+	url = git@github.com:alschofield/portfolio.git
+[submodule "Projects/Song"]
+	path = Projects/Song
+	url = git@github.com:alschofield/song-recommendations.git
+[submodule "Projects/Song Recommendations/app"]
+	path = Projects/Song Recommendations/app
+	url = git@github.com:alschofield/song-recommendations.git
+[submodule "Projects/Song Recommendations/server"]
+	path = Projects/Song Recommendations/server
+	url = git@github.com:alschofield/song-recommendations-server.git
