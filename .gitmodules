@@ -10,3 +10,6 @@
 [submodule "Projects/Song Recommendations/server"]
 	path = Projects/Song Recommendations/server
 	url = git@github.com:alschofield/song-recommendations-server.git
+[submodule "Projects/Todo"]
+	path = Projects/Todo
+	url = git@github.com:alschofield/todolist-app.git

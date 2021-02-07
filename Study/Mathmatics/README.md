@@ -1,4 +1,10 @@
+# math
 plan for the future, will be a long journey, hopefully we speed through some of the first couple  (lul) and then we only have a million to go, over under on if i finish before im 90?
+
+desired key areas of improvement for fastested applied use
+  - matrices
+  - trig and other geometry, sine cosine and tangent
+  - logarithmic functions and might as well do exponential functions
 
 # big thanks to this guy
 https://www.youtube.com/watch?v=pTnEG_WGd2Q
