@@ -13,3 +13,6 @@
 [submodule "Projects/Todo"]
 	path = Projects/Todo
 	url = git@github.com:alschofield/todolist-app.git
+[submodule "Projects/Calculator"]
+	path = Projects/Calculator
+	url = git@github.com:alschofield/calculator.git
