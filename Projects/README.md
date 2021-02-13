@@ -7,6 +7,7 @@ fuck the moon, we're going to alpha centauri
 - https://www.youtube.com/watch?v=Mito0NH56hE
 - https://www.youtube.com/watch?v=XnbsIl2BnWw
 - https://www.youtube.com/watch?v=EFEmTsfFL5A
+- https://www.youtube.com/watch?v=z-mxBDuRaZ8
 
 # todos
 - upload song rec, todo and calculator to host like heroku
