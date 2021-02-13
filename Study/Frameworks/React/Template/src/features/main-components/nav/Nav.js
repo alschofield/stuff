@@ -1,22 +1,15 @@
 import React from 'react';
 import NavItem from './components/NavItem.js';
 import Container from '../../components/Container/Container';
+import { withTheme } from '../../../themes';
 
-export default function Nav() {
-  const styles = {
-    position: 'fixed',
-    display: 'flex',
-    background: 'purple',
-    width: '100%',
-    height: '40px',
-    top: '0px',
-    left: '0px',
-    zIndex: '1'
-  }
-
+const Nav = ({ theme, handleThemeToggle }) => {
   return (
-    <Container { ...styles } data-testid="nav-container">
-      <NavItem type="anchor" value="Home" href="/home" />
+    <Container theme={theme.nav.container} data-testid='nav-container'>
+      <NavItem theme={theme.nav.item} type='image' src={`${process.env.PUBLIC_URL}/scho-logo.png`} href='/' />
+      <NavItem theme={theme.nav.item} type='icon' icon='paint' onClick={handleThemeToggle} />
     </Container>
   );
 }
+
+export default withTheme(Nav)

@@ -1,15 +1,14 @@
 import React from 'react';
 import Container from '../../components/Container/Container';
 
-export default function Footer() {
-  const containerStyles = {
-    height: '60px',
-    background: 'orange'
-  }
+import { withTheme } from '../../../themes';
 
+const Footer ({ theme }) => {
   return (
-    <Container { ...containerStyles } data-testid="footer-container">
-
+    <Container theme={theme.footer.container} data-testid='footer-container'>
+      Template
     </Container>
   );
 }
+
+export default withTheme(Footer);

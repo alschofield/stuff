@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   BrowserRouter as Router,
   Switch,
@@ -9,25 +9,34 @@ import Nav from './features/main-components/nav/Nav';
 import Container from './features/components/Container/Container';
 import Home from './features/pages/home/Home';
 import './App.css';
+import { ThemeProvider, themes } from './themes';
 
-// import './api/server'
+const App = ({}) => {
+  let [state, updateState] = useState({
+    themeName: 'dark',
+    theme: themes.dark
+  })
 
-function App() {
+  const handleThemeToggle = () => {
+    const name = (state.themeName === 'light') ? 'dark' : 'light';
+    updateState({ theme: themes[name], themeName: name });
+  };
+
   return (
     <Router>
-      <Container data-testid="app-container">
-        <Nav />
+      <ThemeProvider theme={state.theme}>
+        <Container data-testid="app-container">
+          <Nav handleThemeToggle={handleThemeToggle} />
 
-        <Switch>
+          <Switch>
+            <Route path="/">
+              <Home />
+            </Route>
+          </Switch>
 
-          <Route path="/">
-            <Home />
-          </Route>
-
-        </Switch>
-
-        <Footer />
-      </Container>
+          <Footer />
+        </Container>
+      </ThemeProvider>
     </Router>
   );
 }

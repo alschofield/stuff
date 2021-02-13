@@ -10,5 +10,5 @@ test('renders nav item', () => {
   );
 
   // nav item should exist
-  expect(screen.getByTestId('navitem-container'))
+  expect(screen.getAllByTestId('navitem-container'))
 });

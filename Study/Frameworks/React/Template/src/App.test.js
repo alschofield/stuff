@@ -22,5 +22,5 @@ test('renders react app', () => {
   // nav should exist
   expect(screen.getByTestId("nav-container"))
   // home page nav item should exist
-  expect(screen.getByTestId("navitem-container")).toHaveTextContent('Home')
+  expect(screen.getAllByTestId("navitem-container"))
 });

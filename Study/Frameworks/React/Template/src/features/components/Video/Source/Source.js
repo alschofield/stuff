@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Item = styled.img`
+const Item = styled.source`
   position: ${props => props.theme.position || 'relative'};
   display: ${props => props.theme.display || 'initial'};
   height: ${props => props.theme.height || 'auto'};
@@ -33,7 +33,7 @@ const Item = styled.img`
   color: ${props => props.theme.color || 'initial'};
 `;
 
-export default function Image(props) {
+export default function Source(props) {
   return (
     <Item {...props}>
       { props.children }
@@ -41,6 +41,6 @@ export default function Image(props) {
   );
 }
 
-Image.defaultProps = {
-  'data-testid': 'image-container'
+Source.defaultProps = {
+  'data-testid': 'source-container'
 }

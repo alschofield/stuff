@@ -1,15 +1,16 @@
 import React from 'react';
 import Container from '../../components/Container/Container';
+import Header from '../../components/Header/Header';
+import List from '../../components/List/List';
 
-export default function Home() {
-  const containerStyles = {
-    paddingTop: '40px',
-    minHeight: '100vh'
-  }
+import { withTheme } from '../../../themes';
 
+const Home = ({ theme }) => {
   return (
-    <Container { ...containerStyles } data-testid="home-container" >
+    <Container theme={theme.home.container} data-testid='home-container'>
 
     </Container>
   );
 }
+
+export default withTheme(Home)
