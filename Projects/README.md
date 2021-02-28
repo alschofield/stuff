@@ -2,6 +2,7 @@
 fuck the moon, we're going to alpha centauri
 
 # links (shout out all the artists featured below)
+- https://www.youtube.com/watch?v=KfuukDHC0d8
 - https://www.youtube.com/watch?v=JFm7YDVlqnI
 - https://www.youtube.com/watch?v=xpVfcZ0ZcFM
 - https://www.youtube.com/watch?v=AqroZM_XF20
@@ -24,7 +25,6 @@ fuck the moon, we're going to alpha centauri
 - https://www.youtube.com/watch?v=0gzmFo8UiJQ
 - https://www.youtube.com/watch?v=qI-t1I_ppL8
 - https://www.youtube.com/watch?v=dRHs8a-ISXA
-- https://www.youtube.com/watch?v=KfuukDHC0d8
 - https://www.youtube.com/watch?v=DDWAk8-leVA
 - https://www.youtube.com/watch?v=6z2W06cmpmE
 - https://www.youtube.com/watch?v=Mito0NH56hE
