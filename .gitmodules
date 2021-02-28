@@ -16,3 +16,12 @@
 [submodule "Projects/Calculator"]
 	path = Projects/Calculator
 	url = git@github.com:alschofield/calculator.git
+[submodule "Projects/Suggestions-Questions-Comments/app"]
+	path = Projects/Suggestions-Questions-Comments/app
+	url = git@github.com:alschofield/questions.git
+[submodule "Projects/Suggestions-Questions-Comments/server"]
+	path = Projects/Suggestions-Questions-Comments/server
+	url = git@github.com:alschofield/questions-server.git
+[submodule "Projects/Shopping Site"]
+	path = Projects/Shopping Site
+	url = git@github.com:alschofield/shopping.git
