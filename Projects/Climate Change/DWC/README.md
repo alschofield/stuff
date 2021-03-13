@@ -1,5 +1,6 @@
 # objective
 - the ocean absorbs 30% of carbon from the air or something like that, my thinking is that is quite a nice net, if we take the carbon from the ocean, it continues to become saturated from the air and thus the air hypothetically would become cleaner as well, the water circulating back into the air would be cleaner hypothetically, more stable environment for marine animals
+- still in the plans, chill
 
 - current plan:
   - filtration device to filter out elements from the water to achieve an optimal ph

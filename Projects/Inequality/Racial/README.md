@@ -6,8 +6,10 @@ contribute to and further racial equality
 ## who
 
 ### who does racial inequality affect?
+- everyone
 
 ### who contributes/contributed to racial inequality?
+- everyone
 
 ### who is contributing to racial equality?
 
@@ -38,8 +40,6 @@ contribute to and further racial equality
 ### why does racial inequality exist?
 
 ### why have we seen changes in racial equality?
-
-### why does 
 
 ## how
 

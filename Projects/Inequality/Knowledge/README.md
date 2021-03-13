@@ -6,8 +6,10 @@ contribute to and further knowledge equality
 ## who
 
 ### who does knowledge inequality affect?
+- everyone
 
 ### who contributes/contributed to knowledge inequality?
+- everyone
 
 ### who is contributing to knowledge equality?
 
@@ -38,8 +40,6 @@ contribute to and further knowledge equality
 ### why does knowledge inequality exist?
 
 ### why have we seen changes in knowledge equality?
-
-### why does 
 
 ## how
 

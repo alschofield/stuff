@@ -6,8 +6,10 @@ contribute to and further wealth equality
 ## who
 
 ### who does wealth inequality affect?
+- everyone
 
 ### who contributes/contributed to wealth inequality?
+- everyone
 
 ### who is contributing to wealth equality?
 
@@ -38,8 +40,6 @@ contribute to and further wealth equality
 ### why does wealth inequality exist?
 
 ### why have we seen changes in wealth equality?
-
-### why does 
 
 ## how
 
