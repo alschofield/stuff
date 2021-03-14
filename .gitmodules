@@ -25,3 +25,6 @@
 [submodule "Projects/Shopping Site"]
 	path = Projects/Shopping Site
 	url = git@github.com:alschofield/shopping.git
+[submodule "Projects/NFTs"]
+	path = Projects/NFTs
+	url = git@github.com:alschofield/NFTs.git
