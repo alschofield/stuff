@@ -90,7 +90,7 @@ contribute to and further gender equality
 - lack of empathy
 
 ## lastly
-- i am far from an expert in this and these are some initial findings and thoughts ive accrued on the matter, im fully aware a lot more time could be spent here
+- i am far from an expert in this and these are some initial findings and thoughts ive accrued on the matter, im fully aware a lot more time could and will be spent here
 - this isnt supposed to be a comprehensive document to understand all of gender inequality and more a jumping off point for more research or conversation to be had
 - some of these things may be conjecture and id implore anyone to correct where they see fit
 - <3
