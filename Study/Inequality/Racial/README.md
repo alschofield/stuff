@@ -91,3 +91,4 @@ contribute to and further racial equality
 - some of these things may be conjecture and id implore anyone to correct where they see fit
 - <3
 - truthfully, i just want the best for everyone, all love
+- thoughts and prayers with the asian communitee
