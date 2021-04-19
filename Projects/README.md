@@ -13,6 +13,13 @@ kind of started taking this github semi seriously btw
 - https://www.youtube.com/watch?v=LkIWmsP3c_s
 - https://www.youtube.com/watch?v=Alh6iIvVN9o
 - https://www.youtube.com/watch?v=ex-ICeh8y9g
+- https://www.youtube.com/watch?v=emGri7i8Y2Y
+- https://www.youtube.com/watch?v=CMX2lPum_pg
+- https://www.youtube.com/watch?v=5hDZbroaQDc
+- https://www.youtube.com/watch?v=MP7_VfMZuN0
+- https://www.youtube.com/watch?v=nAQVGx1vzrk
+- https://www.youtube.com/watch?v=ojWomQ3cWnE
+- https://www.youtube.com/watch?v=CLcEe3uYlmI
 
 # while i have you
 - https://feedingamerica.org
