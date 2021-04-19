@@ -1,9 +1,7 @@
 import React from 'react';
-import Container from '../../components/Container/Container';
-import Header from '../../components/Header/Header';
-import List from '../../components/List/List';
+import { Container } from 'schofield-common-components';
 
-import { withTheme } from '../../../themes';
+import { withTheme } from 'schofield-themes';
 
 const Home = ({ theme }) => {
   return (

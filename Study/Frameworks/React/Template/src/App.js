@@ -4,14 +4,16 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import Footer from './features/main-components/footer/Footer';
-import Nav from './features/main-components/nav/Nav';
-import Container from './features/components/Container/Container';
+import { Container } from 'schofield-common-components';
+import { Nav, Footer } from 'schofield-main-components';
 import Home from './features/pages/home/Home';
 import './App.css';
-import { ThemeProvider, themes } from './themes';
+import { ThemeProvider, themes } from 'schofield-themes';
+import settings from './settings';
 
-const App = ({}) => {
+const TITLE = settings.get('TITLE');
+
+const App = () => {
   let [state, updateState] = useState({
     themeName: 'dark',
     theme: themes.dark
@@ -26,7 +28,7 @@ const App = ({}) => {
     <Router>
       <ThemeProvider theme={state.theme}>
         <Container data-testid="app-container">
-          <Nav handleThemeToggle={handleThemeToggle} />
+          <Nav theme={state.theme} handleThemeToggle={handleThemeToggle} />
 
           <Switch>
             <Route path="/">
@@ -34,7 +36,7 @@ const App = ({}) => {
             </Route>
           </Switch>
 
-          <Footer />
+          <Footer theme={state.theme} text={TITLE} />
         </Container>
       </ThemeProvider>
     </Router>
