@@ -37,3 +37,6 @@
 [submodule "Study/Frameworks/React/Components/Main Components"]
 	path = Study/Frameworks/React/Components/Main Components
 	url = git@github.com:alschofield/schofield-main-components.git
+[submodule "Study/Frameworks/React/Template"]
+	path = Study/Frameworks/React/Template
+	url = git@github.com:alschofield/schofield-react-template.git
