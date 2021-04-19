@@ -1,0 +1,1 @@
+/Users/scho/projects/Dev\ Stuff/Study/Languages/Rust/function_transfer_ownership/target/debug/transfer_ownership: /Users/scho/projects/Dev\ Stuff/Study/Languages/Rust/function_transfer_ownership/src/main.rs

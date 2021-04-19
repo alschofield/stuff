@@ -1,0 +1,1 @@
+/Users/scho/projects/Dev\ Stuff/Study/Languages/Rust/function_return_ownership/target/debug/functions_without_ownership: /Users/scho/projects/Dev\ Stuff/Study/Languages/Rust/function_return_ownership/src/main.rs

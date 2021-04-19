@@ -28,3 +28,12 @@
 [submodule "Projects/NFTs"]
 	path = Projects/NFTs
 	url = git@github.com:alschofield/NFTs.git
+[submodule "Study/Frameworks/React/Components/Themes"]
+	path = Study/Frameworks/React/Components/Themes
+	url = git@github.com:alschofield/schofield-themes.git
+[submodule "Study/Frameworks/React/Components/Common Components"]
+	path = Study/Frameworks/React/Components/Common Components
+	url = git@github.com:alschofield/schofield-common-components.git
+[submodule "Study/Frameworks/React/Components/Main Components"]
+	path = Study/Frameworks/React/Components/Main Components
+	url = git@github.com:alschofield/schofield-main-components.git

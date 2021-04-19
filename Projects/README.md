@@ -9,62 +9,16 @@ you got an appointment? step on into my office
 
 kind of started taking this github semi seriously btw
 
-# links (shout out all the artists featured below)
-- https://www.youtube.com/watch?v=wnacdOIoTBQ
-- https://www.youtube.com/watch?v=b9WKC5sT9Z4
-- https://www.youtube.com/watch?v=o5RJvvE3koE
-
-- https://www.youtube.com/watch?v=my2ZvqmPaco
-- https://www.youtube.com/watch?v=5WU7oGiwiao
-- https://www.youtube.com/watch?v=Y0ORhLyJWuc
-- https://www.youtube.com/watch?v=adLGHcj_fmA
-- https://www.youtube.com/watch?v=YvkHPdsjQQs
-- https://www.youtube.com/watch?v=xnO2HDmT1D8
-- https://www.youtube.com/watch?v=E4QOTftvFEU
-- https://www.youtube.com/watch?v=friIxWaY2fQ
-- https://www.youtube.com/watch?v=KlQESTshOPw
-- https://www.youtube.com/watch?v=imNWC5Eq9OA
-- https://www.youtube.com/watch?v=vuCyrtGQhAk
-- https://www.youtube.com/watch?v=qI-t1I_ppL8
-- https://www.youtube.com/watch?v=33TEU3kQBOo
-- https://www.youtube.com/watch?v=69RrVdbjrHM
-- https://www.youtube.com/watch?v=yhoGtNiNX40
-- https://www.youtube.com/watch?v=9QOdN6qqv-E
-- https://www.youtube.com/watch?v=2p3zZoraK9g
-- https://www.youtube.com/watch?v=0L8kRN_bPXM
-- https://www.youtube.com/watch?v=U6k5dIhB6AM
-- https://www.youtube.com/watch?v=S8vmsQ4hvoA
-- https://www.youtube.com/watch?v=ECQ7ynk59uU
-- https://www.youtube.com/watch?v=7Rt_AavjrlQ
-- https://www.youtube.com/watch?v=KfuukDHC0d8
-- https://www.youtube.com/watch?v=JFm7YDVlqnI
-- https://www.youtube.com/watch?v=xpVfcZ0ZcFM
-- https://www.youtube.com/watch?v=pWh4O6ujK4o
-- https://www.youtube.com/watch?v=Pgd_Tgi-pbQ
-- https://www.youtube.com/watch?v=53_HPbH64_M
-- https://www.youtube.com/watch?v=ZD6C498MB4U
-- https://www.youtube.com/watch?v=ipM9SkIkwCY
-- https://www.youtube.com/watch?v=UUBAFPIHETA
-- https://www.youtube.com/watch?v=nszXYm3Xe3g
-- https://www.youtube.com/watch?v=lUKGzvQj4bI
-- https://www.youtube.com/watch?v=AbV-Q6tz4B8
-- https://www.youtube.com/watch?v=7MsT2uNJ2hA
-- https://www.youtube.com/watch?v=hC8CH0Z3L54
-- https://www.youtube.com/watch?v=Vn8phH0k5HI
-- https://www.youtube.com/watch?v=kB8d0c4DQUY
-- https://www.youtube.com/watch?v=k2FhbZ8M7Kc
-- https://www.youtube.com/watch?v=RWQMg56ZVZY
-- https://www.youtube.com/watch?v=4NUjCcHbUjo
-- https://www.youtube.com/watch?v=0gzmFo8UiJQ
-- https://www.youtube.com/watch?v=qI-t1I_ppL8
-- https://www.youtube.com/watch?v=dRHs8a-ISXA
-- https://www.youtube.com/watch?v=DDWAk8-leVA
-- https://www.youtube.com/watch?v=6z2W06cmpmE
-- https://www.youtube.com/watch?v=Mito0NH56hE
-- https://www.youtube.com/watch?v=XnbsIl2BnWw
-- https://www.youtube.com/watch?v=EFEmTsfFL5A
-- https://www.youtube.com/watch?v=z-mxBDuRaZ8
-- https://www.youtube.com/watch?v=1oyV8io1WOw
+# links (shout out all the artists below)
+- https://www.youtube.com/watch?v=HuIPpsPCncg
+- https://www.youtube.com/watch?v=VeV0W3KGrp4
+- https://www.youtube.com/watch?v=x79q2Md_uQo
+- https://www.youtube.com/watch?v=mwRWxN52rwI
+- https://www.youtube.com/watch?v=VitGoB06nWQ
+- https://www.youtube.com/watch?v=vfGI8JQ-2MQ
+- https://www.youtube.com/watch?v=2MRdtXWcgIw
+- https://www.youtube.com/watch?v=Ai3Ay9A7WqM
+- https://www.youtube.com/watch?v=dIJ1UVN6aMw
 
 # while i have you
 - https://feedingamerica.org
@@ -76,7 +30,7 @@ kind of started taking this github semi seriously btw
 - i want to do and get to everything in here, and to add more, but some of these things may never happen and im fine with that, whats that one thing ford appartently said? "Whether you think you can, or you think you can't--you're right."
 - until i have enough money where i can do whatever i want with all of my time, this stuff will always be at least second fiddle to whatever my source of income is, trying to find a good balance between the two which has seemingly been pretty hard
 - this is a startup/agile microservice approach to web app development ie mvps and prioritized features, when one service would need more because of limitations thats when i would add some of them, luckily most third party hosting services offer free teirs and handle a lot of stuff for you, want to get a wide range of a bunch of simple ish apps to then start building more complex stuff on top of specifically with backend things that i want to get better at
-- there are a lot of people who i would love to give shout outs to but am hesitant to do so because i dont want to blow up anyones spot unnecessarily and i dont know what to do about that, i can start with shout out to my job and all of the extremely talented and beautiful people there, thanks for putting up with me <3
+- there are a lot of people who i would love to give shout outs to but am hesitant to do so because i dont want to blow up anyones spot unnecessarily and i dont know what to do about that, i can start with shout out to my job and all of the extremely talented and beautiful people there, and everyone else in my life who just wants to take a shout out nows your chance, couldnt do anything without them, thanks for putting up with me <3
 - i like the 'we' over the 'i', i do it on purpose, im not going crazy
 - some of the things like i said probably wont get made unless i just ball out elon style somehow, but i will keep the possibility of all of these things until something similar is made or i just still want to because i like it, for instance the DWC is probably always going to be on my mind
 - some things are actual tech, some things are just commentary/brain storm/notes/plans, and some might turn into the other, go with the flow and learn to get along
@@ -87,10 +41,10 @@ kind of started taking this github semi seriously btw
 # potential todos
 - reduce redundency
   - npm publish template, components, main-components, and maybe themes 
-  - proxy server
 - login/authentication server and apply to apps as optional (would probably be relatively useless to start)
 - improve styling of apps
 - add more tests for apps and servers (realistically we should write tests first but we started this as a degenerate codebase to accelerate react improvement. write test, start app, test is failing, start coding until test is no longer failing, TDD, you dont have to do it this way but its a great way to get started and just a reliable way in general but like write tests its something ive neglected and thats a bad thing do not follow my lead)
+- finish nft stuff
 - data science
   - some sort of soccer statistical analysis
 - blockchain stuff
@@ -101,6 +55,7 @@ kind of started taking this github semi seriously btw
   - song rec stuff
   - tie in soccer analysis stuff
 - thought about playing around with the idea of creating some server architectures
+  - proxy server for microservices
 - try out unity
 - better search engine
   - good, relevant, helpful results

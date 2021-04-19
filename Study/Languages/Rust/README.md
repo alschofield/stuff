@@ -1,5 +1,110 @@
+# overview
 https://doc.rust-lang.org/stable/
 
 you want this -> https://doc.rust-lang.org/stable/book/index.html
 
 just going through the chapters, starting chapter 3
+
+# to know
+- rustc will compile file into executable
+- cargo
+  - cargo new [project_name]
+    - create new project
+  - cargo run
+    - if not compiled/built, compile and then run executable
+  - cargo build
+    - build/compile project into executable
+  - cargo check
+    - check if build will succeed
+- .toml is package manager
+  - lock file as well
+- constants
+  - dont change
+  - uppercase with underscores
+  - cant be mut
+  - must be type annotated
+- shadowing
+  - using let, allows you to reuse variables to reset those variables and have them be immutable afterwards
+  - must use let when changing variable
+  - different from mutable because it is only ever mutable when (re)assigning let and it allows for type mutation as well
+- data types
+  - scalar
+    - integer
+      - unsigned vs signed
+        - unsigned is always positive (doesnt need a sign)
+        - signed can be negative or positive (needs a sign (+/-))
+      - integer types
+        - 8-bit	i8	u8
+        - 16-bit	i16	u16
+        - 32-bit	i32	u32
+        - 64-bit	i64	u64
+        - 128-bit	i128	u128
+        - arch	isize	usize (64-bit architecture and 32 bits if you’re on a 32-bit architecture)
+      - character type (strings)
+        - char
+    - floating point (floats)
+      - numbers with decimals
+      - types
+        - f32
+        - f64
+    - booleans
+      - true or false
+      - type
+        - bool
+    - characters
+      - strings
+      - type
+        - char
+  - compound
+    - tuples
+      - grouping of other types
+      - fixed in length
+      - type
+        - (i8, bool, f32)
+      - accessing
+        - tuple.index
+    - arrays
+      - grouping of the same type
+      - type
+        - [i32; 5]
+      - accessing
+        - array[index]
+- function
+  - snake case (lowercase underscores)
+  - annotated type parameters
+- comments
+  - //
+- if/else
+  - if bool { expression } else if bool { expression } else { expression }
+- loops
+  - loop { expression }
+  - while bool { expression }
+  - for variable in array { expression }
+- keywords
+  - use - imports dependency
+  - let - defines variable
+  - const - defines const
+  - fn - defines function
+  - mut - sets variable mutability
+- ownership
+  - each value in Rust has a variable that’s called its owner.
+  - there can only be one owner at a time.
+  - when the owner goes out of scope, the value will be dropped.
+  - stack and heap
+    - see data structures directory
+    - stack
+      - first in, first out
+      - must have fixed size
+    - heap
+      - request space
+      - returns pointer
+      - slower than stack
+  - scope same as other languages
+  - https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-string-type
+  - clone
+  - references
+    - syntax &name/type
+    - mutable references
+      - &mut
+      - can only have one in the same scope
+      - can only have mutable or immutable in memory
