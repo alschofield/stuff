@@ -40,3 +40,12 @@
 [submodule "Study/Frameworks/React/Template"]
 	path = Study/Frameworks/React/Template
 	url = git@github.com:alschofield/schofield-react-template.git
+[submodule "Projects/Proxy"]
+	path = Projects/Proxy
+	url = git@github.com:alschofield/proxy-server.git
+[submodule "Projects/Suggestions-Questions-Comments/lambda"]
+	path = Projects/Suggestions-Questions-Comments/lambda
+	url = git@github.com:alschofield/suggestions-questions-comments-lambda.git
+[submodule "Projects/Song Recommendations/lambda"]
+	path = Projects/Song Recommendations/lambda
+	url = git@github.com:alschofield/song-rec-lambda.git
