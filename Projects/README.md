@@ -1,33 +1,9 @@
 # thoughts
 fuck the moon, we're going to alpha centauri
 
-im contemplating making these into NFT's or having these back NFT's or however it works
-each project would be its own NFT or something
-heh and they say im not a genius
-
 you got an appointment? step on into my office
 
-kind of started taking this github semi seriously btw
-
-# links (shout out all the artists below)
-- https://www.youtube.com/watch?v=oorK4RPgZ8Q
-- https://www.youtube.com/watch?v=-q5nFR-EW7U
-- https://www.youtube.com/watch?v=_GC2wFTCAGY
-- https://www.youtube.com/watch?v=_-Ig0aeJ6jc
-- https://www.youtube.com/watch?v=SsKT0s5J8ko
-- https://www.youtube.com/watch?v=GF8aaTu2kg0
-- https://www.youtube.com/watch?v=TRLSQDCkcaA
-- https://www.youtube.com/watch?v=2lTB1pIg1y0
-- https://www.youtube.com/watch?v=WxL2au41cnk
-- https://www.youtube.com/watch?v=-GPr_qdXUMQ
-- https://www.youtube.com/watch?v=LkIWmsP3c_s
-- https://www.youtube.com/watch?v=Alh6iIvVN9o
-- https://www.youtube.com/watch?v=ex-ICeh8y9g
-- https://www.youtube.com/watch?v=emGri7i8Y2Y
-- https://www.youtube.com/watch?v=CMX2lPum_pg
-- https://www.youtube.com/watch?v=5hDZbroaQDc
-- https://www.youtube.com/watch?v=ojWomQ3cWnE
-- https://www.youtube.com/watch?v=CLcEe3uYlmI
+https://www.youtube.com/watch?v=q8e1sSNsf44
 
 # while i have you
 - https://feedingamerica.org
