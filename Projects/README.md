@@ -9,8 +9,6 @@ you got an appointment? step on into my office
 
 kind of started taking this github semi seriously btw
 
-everyones taking my samples and running as far as they can, rude af
-
 # links (shout out all the artists below)
 - https://www.youtube.com/watch?v=oorK4RPgZ8Q
 - https://www.youtube.com/watch?v=-q5nFR-EW7U
