@@ -49,3 +49,6 @@
 [submodule "Projects/Song Recommendations/lambda"]
 	path = Projects/Song Recommendations/lambda
 	url = git@github.com:alschofield/song-rec-lambda.git
+[submodule "Projects/Auth"]
+	path = Projects/Auth
+	url = git@github.com:alschofield/auth.git
