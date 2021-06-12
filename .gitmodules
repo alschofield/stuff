@@ -52,3 +52,9 @@
 [submodule "Projects/Auth"]
 	path = Projects/Auth
 	url = git@github.com:alschofield/auth.git
+[submodule "Study/Frameworks/Gatsby.js/Template"]
+	path = Study/Frameworks/Gatsby.js/Template
+	url = git@github.com:alschofield/gatsby-template.git
+[submodule "Study/Frameworks/Next.js/Template"]
+	path = Study/Frameworks/Next.js/Template
+	url = git@github.com:alschofield/next-template.git

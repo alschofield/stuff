@@ -1,0 +1,1 @@
+npx create-next-app [name] -e [github link to starter]

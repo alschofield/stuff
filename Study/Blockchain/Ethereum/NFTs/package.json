@@ -1,0 +1,22 @@
+{
+  "name": "nfts",
+  "version": "1.0.0",
+  "description": "- would like to learn more about blockchain and nft's by generating tokens via the ethereum network erc721 - if all goes well, we'd try to import into i think open seas so people can maybe buy it - if you want to follow along more closely ill be heavily using this: https://ethereum.org/en/developers/ specifically we want to create a erc721 contract as stated above",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "solhint -f stylish ./contracts/*.sol"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "5.2.4"
+  }
+}

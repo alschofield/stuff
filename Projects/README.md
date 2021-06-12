@@ -5,6 +5,8 @@ you got an appointment? step on into my office
 
 https://www.youtube.com/watch?v=q8e1sSNsf44
 
+eat your heart out
+
 # while i have you
 - https://feedingamerica.org
 - https://secure.actblue.com/donate/ms_blm_homepage_2019
@@ -23,11 +25,7 @@ https://www.youtube.com/watch?v=q8e1sSNsf44
 - please dont be mad if something isnt getting the time or love that you would like, my plan is to get to everything and there are certain priorities put in place, for instance im ambitious and things will span out of my direct reach so then i plan things to help take me to the place i need to be to then re address, the priorities do not directly correlate with my personal preferences
 
 # potential todos
-- reduce redundency
-  - npm publish template, components, main-components, and maybe themes 
-- login/authentication server and apply to apps as optional (would probably be relatively useless to start)
 - improve styling of apps
-- add more tests for apps and servers (realistically we should write tests first but we started this as a degenerate codebase to accelerate react improvement. write test, start app, test is failing, start coding until test is no longer failing, TDD, you dont have to do it this way but its a great way to get started and just a reliable way in general but like write tests its something ive neglected and thats a bad thing do not follow my lead)
 - finish nft stuff
 - data science
   - some sort of soccer statistical analysis
@@ -39,7 +37,6 @@ https://www.youtube.com/watch?v=q8e1sSNsf44
   - song rec stuff
   - tie in soccer analysis stuff
 - thought about playing around with the idea of creating some server architectures
-  - proxy server for microservices
 - try out unity
 - better search engine
   - good, relevant, helpful results
