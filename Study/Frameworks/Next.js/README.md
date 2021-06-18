@@ -1,1 +1,1 @@
-npx create-next-app [name] -e [github link to starter]
+npx create-next-app [name] -e git@github.com:alschofield/next-template.git
