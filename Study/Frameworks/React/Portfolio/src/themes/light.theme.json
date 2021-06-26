@@ -1,0 +1,11 @@
+{
+  "home": {
+    "container" : {
+      "height": "calc(100vh - 100px)",
+      "overflow": "auto",
+      "paddingTop": "0",
+      "marginTop": "40px"
+    }
+  }
+}
+
