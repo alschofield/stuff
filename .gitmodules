@@ -61,3 +61,6 @@
 [submodule "Projects/Cryptunes/Nes"]
 	path = Projects/Cryptunes/Nes
 	url = https://github.com/alschofield/nes-contract.git
+[submodule "Projects/Cryptunes/Cryptu"]
+	path = Projects/Cryptunes/Cryptu
+	url = https://github.com/alschofield/cryptu-wallet.git
