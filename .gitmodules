@@ -1,33 +1,6 @@
-[submodule "Projects/Portfolio"]
-	path = Projects/Portfolio
-	url = git@github.com:alschofield/portfolio.git
-[submodule "Projects/Song"]
-	path = Projects/Song
-	url = git@github.com:alschofield/song-recommendations.git
 [submodule "Projects/Song Recommendations/app"]
 	path = Projects/Song Recommendations/app
 	url = git@github.com:alschofield/song-recommendations.git
-[submodule "Projects/Song Recommendations/server"]
-	path = Projects/Song Recommendations/server
-	url = git@github.com:alschofield/song-recommendations-server.git
-[submodule "Projects/Todo"]
-	path = Projects/Todo
-	url = git@github.com:alschofield/todolist-app.git
-[submodule "Projects/Calculator"]
-	path = Projects/Calculator
-	url = git@github.com:alschofield/calculator.git
-[submodule "Projects/Suggestions-Questions-Comments/app"]
-	path = Projects/Suggestions-Questions-Comments/app
-	url = git@github.com:alschofield/questions.git
-[submodule "Projects/Suggestions-Questions-Comments/server"]
-	path = Projects/Suggestions-Questions-Comments/server
-	url = git@github.com:alschofield/questions-server.git
-[submodule "Projects/Shopping Site"]
-	path = Projects/Shopping Site
-	url = git@github.com:alschofield/shopping.git
-[submodule "Projects/NFTs"]
-	path = Projects/NFTs
-	url = git@github.com:alschofield/NFTs.git
 [submodule "Study/Frameworks/React/Components/Themes"]
 	path = Study/Frameworks/React/Components/Themes
 	url = git@github.com:alschofield/schofield-themes.git
@@ -40,18 +13,9 @@
 [submodule "Study/Frameworks/React/Template"]
 	path = Study/Frameworks/React/Template
 	url = git@github.com:alschofield/schofield-react-template.git
-[submodule "Projects/Proxy"]
-	path = Projects/Proxy
-	url = git@github.com:alschofield/proxy-server.git
-[submodule "Projects/Suggestions-Questions-Comments/lambda"]
-	path = Projects/Suggestions-Questions-Comments/lambda
-	url = git@github.com:alschofield/suggestions-questions-comments-lambda.git
 [submodule "Projects/Song Recommendations/lambda"]
 	path = Projects/Song Recommendations/lambda
 	url = git@github.com:alschofield/song-rec-lambda.git
-[submodule "Projects/Auth"]
-	path = Projects/Auth
-	url = git@github.com:alschofield/auth.git
 [submodule "Study/Frameworks/Gatsby.js/Template"]
 	path = Study/Frameworks/Gatsby.js/Template
 	url = git@github.com:alschofield/gatsby-template.git
@@ -64,3 +28,18 @@
 [submodule "Projects/Cryptunes/Cryptu"]
 	path = Projects/Cryptunes/Cryptu
 	url = https://github.com/alschofield/cryptu-wallet.git
+[submodule "Study/Frameworks/React/Portfolio"]
+	path = Study/Frameworks/React/Portfolio
+	url = https://github.com/alschofield/portfolio.git
+[submodule "Study/Frameworks/React/Projects/Calculator"]
+	path = Study/Frameworks/React/Projects/Calculator
+	url = https://github.com/alschofield/calculator.git
+[submodule "Study/Frameworks/React/Projects/Portfolio"]
+	path = Study/Frameworks/React/Projects/Portfolio
+	url = https://github.com/alschofield/portfolio.git
+[submodule "Study/Languages/Rust/Proxy"]
+	path = Study/Languages/Rust/Proxy
+	url = https://github.com/alschofield/proxy-server.git
+[submodule "Study/Frameworks/Lambda/Auth"]
+	path = Study/Frameworks/Lambda/Auth
+	url = https://github.com/alschofield/auth.git
