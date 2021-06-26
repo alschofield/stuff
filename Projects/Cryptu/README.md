@@ -20,3 +20,5 @@ tokens store in cryptu wallet
 cryptunes
 
 how to deal with number of coins
+
+larger idea would be that this caould be used for any non unique digital asset (as apposed to nfts which makes each token unique, this allows one contract to keep track of all transactions)
