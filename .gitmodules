@@ -58,6 +58,3 @@
 [submodule "Study/Frameworks/Next.js/Template"]
 	path = Study/Frameworks/Next.js/Template
 	url = git@github.com:alschofield/next-template.git
-[submodule "Projects/Cryptu/Nes"]
-	path = Projects/Cryptu/Nes
-	url = https://github.com/alschofield/nes-contract.git
