@@ -43,3 +43,6 @@
 [submodule "Study/Frameworks/Lambda/Auth"]
 	path = Study/Frameworks/Lambda/Auth
 	url = https://github.com/alschofield/auth.git
+[submodule "Projects/Climate Change"]
+	path = Projects/Climate Change
+	url = https://github.com/alschofield/climate-change.git
